@@ -1,0 +1,20 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_location%]"
+    },
+    "error": {
+      "invalid_house_number": "Invalid house number."
+    },
+    "step": {
+      "user": {
+        "data": {
+          "zip_code": "Zip code",
+          "house_number": "House number"
+        },
+        "description": "Enter your address",
+        "title": "Avri"
+      }
+    }
+  }
+}
