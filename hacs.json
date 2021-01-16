@@ -1,3 +1,5 @@
 {
-  "name": "Avri waste collector"
+  "name": "Avri waste collector",
+  "iot_class": "Cloud Polling",
+  "country": "NL"
 }
